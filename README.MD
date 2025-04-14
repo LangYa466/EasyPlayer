@@ -3,6 +3,9 @@
 一个简单轻量的音乐播放库 用于播放 MP3 和 WAV 和 FLAC 音频文件
 使用lame解码器(mp3)
 
+gralde/maven加载:
+https://jitpack.io/#LangYa466/EasyPlayer/-SNAPSHOT
+
 ## 示例用法
 
 ```java
