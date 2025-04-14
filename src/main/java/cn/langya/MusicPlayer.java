@@ -98,4 +98,8 @@ public class MusicPlayer {
         line.drain();
         line.close();
     }
+
+    public static FlacPlayer playFlac(String filePath) {
+        return new FlacPlayer(filePath).play();
+    }
 }
